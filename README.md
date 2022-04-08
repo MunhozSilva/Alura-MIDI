@@ -1,7 +1,7 @@
 # Alura-MIDI
 This is a web application that plays drum sounds that was developed along a JavaScript for Web course from Alura.
 
-The main porpose of this project is to study the interaction of JavaScript on a Website.
+The main purpose of this project is to study the interaction of JavaScript on a Website.
 
 Besides that, the course also showed best practices to keep a clean code.
 
